@@ -347,5 +347,5 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Hà Thị Hoa - Trường PTDTBT Tiểu học Đường Thượng - ĐT: 0383 108 531</p>
-</div> unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>"© 2025 - Hà Thị Hoa - Trường PTDTBT Tiểu học Đường Thượng - ĐT: 0383 108 531"</p>
+</div>, unsafe_allow_html=True)
